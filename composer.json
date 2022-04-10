@@ -5,14 +5,6 @@
     "license": "GPL-2.0+",
     "minimum-stability": "dev",
     "require": {
-        "composer/installers": "~1.0",
-        "scribu/lib-posts-to-posts": "dev-master",
-        "mustache/mustache": "~2.6"
-    },
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/scribu/wp-lib-posts-to-posts"
-        }
-    ]
+        "mustache/mustache": "~2.14.1"
+    }
 }
