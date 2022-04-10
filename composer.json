@@ -1,7 +1,7 @@
 {
     "name": "scribu/posts-to-posts",
     "type": "wordpress-plugin",
-    "homepage": "http://wordpress.org/plugins/posts-to-posts",
+    "homepage": "https://wordpress.org/plugins/posts-to-posts/",
     "license": "GPL-2.0+",
     "minimum-stability": "dev",
     "require": {
