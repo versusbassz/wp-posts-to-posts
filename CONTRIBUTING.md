@@ -11,7 +11,7 @@ git clone git@github.com:{YOUR GITHUB USERNAME}/wp-posts-to-posts.git posts-to-p
 Step 2: Install the dependencies via [Composer](https://getcomposer.org):
 
 ```bash
-php composer.phar install
+composer install
 ```
 
 You can now work on the PHP and CSS files. Please follow the [WordPress Coding Standards](http://make.wordpress.org/core/handbook/coding-standards/).
